@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The high court of justice at Westminster, arraigned at the Bar in the Old Bayley at the Sessions-House; where, those that adjudged and murthered the royal person, and sacred majesty of King Charls the First, are for that horrid fact brought to their legal tryal, according to the known laws of the land. To the tune of, Packingtons pound.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03654</idno>
+            <idno type="STC">Wing H1960AA</idno>
+            <idno type="STC">ESTC R178029</idno>
+            <idno type="EEBO-CITATION">47012476</idno>
+            <idno type="OCLC">ocm 47012476</idno>
+            <idno type="VID">174442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174442)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2689:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The high court of justice at Westminster, arraigned at the Bar in the Old Bayley at the Sessions-House; where, those that adjudged and murthered the royal person, and sacred majesty of King Charls the First, are for that horrid fact brought to their legal tryal, according to the known laws of the land. To the tune of, Packingtons pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Grove ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 5 woodcut illustrations.</note>
+                  <note>Imperfect: page cropped with minor loss of text.</note>
+                  <note>Right half sheet contains: "The names of those bloody persons, who sate, gave judgement, &amp; assisted in that horrid and detestable murther of King Charles the First ... whose estates both real and personal are to be secured."</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>"Entred according to order."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Trials (Treason) --  Great Britain --  17th century --  Poetry.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174442:1"/>
+            <!-- PDF PAGE 24 -->
+            <head>The High Court of Juſtice at <hi>Weſtminſter,</hi> arraigned at the Bar in the <hi>Old Bayley</hi> at the Seſſions-Houſe; WHERE, Thoſe that adjudged and murthered the Royal Perſon, and Sacred Majeſty of King CHARLS the Firſt, are for that horrid Fact brought to their Legal Tryal, according to the known Laws of the Land.</head>
+            <opener>To the Tune of, Packingtons Pound.</opener>
+            <p>
+               <figure>
+                  <p>P I</p>
+               </figure>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe manifold Changes that have hap'ned of late,</l>
+               <l>To the rich and the poor, to the Church and the State,</l>
+               <l>To Princes, Plebeans, to Peſants and Péers,</l>
+               <l>Within the circumference of twenty years,</l>
+               <l>May teach us to ſée</l>
+               <l>In every degrée,</l>
+               <l>There's nothing is certain, but uncertainty,</l>
+               <l>For who would have thought in the time of the War,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The High Court of Juſtice ſhould come to the Bar?</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>No power but the High Court of Heaven could tell</l>
+               <l>What fate ſhould befall to that High Court of Hell,</l>
+               <l>
+                  <hi>Hugh Pe<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers, Jack Hewſon, Cook, Carew</hi> and <hi>Scot,</hi>
+               </l>
+               <l>
+                  <hi>Tom Harriſon, Hacker,</hi> and <hi>Jones</hi> had forgot,</l>
+               <l>(As now it appears</l>
+               <l>In theſe latter years)</l>
+               <l>Gods High Court of Iuſtice hath overcome theirs,</l>
+               <l>In ſpight of Rebellion, Plots, Plunder and War,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Their High Court of Juſtice is brought to the Bar,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>What Villains but they could have ſentenc'd a King</l>
+               <l>In whom all the graces of Princes did ſpring.</l>
+               <l>Their hearts were more hard than <hi>Barbarians</hi> are</l>
+               <l>To bring ſuch a Prince from the Throne to the Bar,</l>
+               <l>A Monarch that meant</l>
+               <l>All love and content,</l>
+               <l>Vnto the Church, and the State, and Parliament,</l>
+               <l>Which they did cut off by a Council of War,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But now their High Court is brought down to the Bar.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>It was a great ſin 'gainſt their conſcience, I'me ſure,</l>
+               <l>That no Law or Goſpel could ever indure,</l>
+               <l>Although with a colour of pureneſs they did it,</l>
+               <l>And under the Mask of Religion they hid it,</l>
+               <l>
+                  <hi>Jack Hewſon</hi> and <hi>Jones</hi>
+               </l>
+               <l>St. <hi>Hugh</hi> and his bones</l>
+               <l>To be the Kings Iudges did ſit upon Thrones,</l>
+               <l>But now they are coupled like ſlaves as they are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And their High Court of Juſtice is brought to the Bar.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>They ſet up a new Law for to murther him,</l>
+               <l>But 'tis a good old Law that ſhall hang up them,</l>
+               <l>Theſe brave men of war and bold Champions muſt now</l>
+               <l>In <hi>Middleſex</hi> for't make a new randezvow,</l>
+               <l>Like Rogues they muſt rally,</l>
+               <l>And from <hi>Newgate</hi> ſally,</l>
+               <l>Vnto the ſad Seſſions-houſe in the old <hi>Bayley,</hi>
+               </l>
+               <l>And there to be try'd, as all murtherers are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For their High Court of Juſtice &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Their many ſucceſſes and victories got,</l>
+               <l>Vpon the poor <hi>Engliſh,</hi> the <hi>Iriſh</hi> and <hi>Scot,</hi>
+               </l>
+               <l>Perſwaded them that they ſhould live with their treaſure</l>
+               <l>In freedome, in ſafety, in plenty and pleaſure</l>
+               <l>That they could not fall</l>
+               <l>From places ſo tall,</l>
+               <l>Becauſe they had gotten the Devil and all;</l>
+               <l>But now they do finde that in ſpight of the War,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Their High Court of Juſtice, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Your Sectaries that did all fight for our goods.</l>
+               <l>Renounce all your Actions, and leave you i'th' ſuds,</l>
+               <l>Your faſting and praying on other mens Lands</l>
+               <l>Have brought your necks under the hang-mans com<g ref="char:EOLhyphen"/>mands,</l>
+               <l>The people do moan,</l>
+               <l>The Gallows doth groan,</l>
+               <l>Till you have aſcended the thrée legged Throne,</l>
+               <l>Where you ſhall be mounted as Murtherers are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Whoſe High Court of Juſtice, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hugh Peters</hi> lies terribly under the laſh,</l>
+               <l>Hée now muſt forſake both the world and the fleſh,</l>
+               <l>His Miſtreſs and hée muſt bée parted, and then</l>
+               <l>The Butcher may have his own Brindle again,</l>
+               <l>The Gentleman you</l>
+               <l>Did call fool good <hi>Hugh,</hi>
+               </l>
+               <l>At this time may queſtion you who's the fool now,</l>
+               <l>Such politick knaves the greateſt fools are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>When High Court of Juſtice, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When you flatter'd <hi>Oliver</hi> up in his ſin,</l>
+               <l>You did not ſuppoſe that the King would come in,</l>
+               <l>When you made Religion your Baud and your Punk</l>
+               <l>You ſcarce thought upon the Lord General <hi>Monk,</hi>
+               </l>
+               <l>When for Wedding-Rings,</l>
+               <l>You fought againſt Kings</l>
+               <l>You little did think to bée hagn'd in the ſtrings,</l>
+               <l>From henceforth let all Polititians beware</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Their High Court of Juſtice will come to the Bar.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>They ſay <hi>Hewſon's</hi> taken, I wiſh it be true,</l>
+               <l>Hee was a bold knave, give the Devil his due,</l>
+               <l>The thrée corner'd Shop-ſtall hee now muſt aſcend,</l>
+               <l>Where <hi>Dun</hi> will prepare him a Coblers-end;</l>
+               <l>Hée roſe up in haſte,</l>
+               <l>But falls down as faſt,</l>
+               <l>And now the blinde Cobler will loſe Awl at laſt,</l>
+               <l>For ſuch haſty riſers, their puniſhment are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>When High Courts of Juſtice are brought to the Bar.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Bold <hi>Harriſon</hi> (as the wilde rumour doth run)</l>
+               <l>Will iuſtifie this bloody fact hee hath done;</l>
+               <l>But let him take héed leſt for ſuch a great ſlaughter</l>
+               <l>His ſoul méet an High Court of Iuſtice hereafter,</l>
+               <l>A Court that controuls,</l>
+               <l>I pity their ſouls,</l>
+               <l>And ſhall pray for them when St. <hi>Pulchres</hi> bell towls</l>
+               <l>God's milde Courts of mercy for penitents are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>When High Court of Juſtice, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I wiſh they had never deſerved this Tryal</l>
+               <l>But bathing their guilty hands in the blood Royal,</l>
+               <l>I griev'd when his Majeſty loſt his dear breath;</l>
+               <l>More than I ſhall joy at his Murtherers death;</l>
+               <l>God bleſs our good King</l>
+               <l>From Treaſon ſoul ſpring,</l>
+               <l>And give him thoſe Ioyes that are everlaſting;</l>
+               <l>Rejoyce and be glad all that innocent are,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For the High Court of Juſtice is brought to the Bar,</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+         <div type="list_of_attainted_persons">
+            <head>The Names of thoſe bloody Perſons, who ſate, gave Judgement, &amp; aſſiſted in that horrid and deteſtable Murther of King Charles the firſt, (of bleſſed memory) whoſe Eſtates both real and perſonal are to be ſecured.</head>
+            <p>IOhn Bradſhaw, Serjeant at Law, Preſi<g ref="char:EOLhyphen"/>dent of the pretended High Court of Juſtice, I. Liſle, W Say, O. Cromwel, H. Ireton, Eſquires. Sir Hard. Waller, Valen. Walton, Tho. Harriſon, Ed. Whaley, Tho. Pride, Iſaac Ewers, Eſquires. Lord Gray of Groby. Sir J. Danvers Kt. Sir Tho. Maleve<g ref="char:EOLhyphen"/>rer Baronet. Sir. J. Bourcher Kt. W. He<g ref="char:EOLhyphen"/>veningham <abbr>Eſq</abbr> Iſaac Pennington Alder<g ref="char:EOLhyphen"/>man of London. W. Purefoy, H. Martin J. Barkſtead, J. Blackiſton, Gilb. Milling<g ref="char:EOLhyphen"/>ton, Eſquires. Sir W. Conſtable Baronet. Ed. Ludlow, J. Hutchinſon, Eſquires. Sir Mich. Liveſey Baronet. R. Tichbourn, O. Roe, R. Lilburn, Ad. Scroop, Rich. Deane, J. Okey, J. Hewſon, W. Goffe, Corn. Hol<g ref="char:EOLhyphen"/>land, J. Cary, J. Jones, Miles Corber, Fr. Allinn, Pereg. Pelham, J. Moore, J. Aldreds H. Smith, Hum. Edwards, Greg. Clement, Tho. Woogan Eſquires. Sir. Greg. Norton, Knight. Ed. Harvy, J. Ven, Tho. Scot, E<g ref="char:EOLhyphen"/>ſquires. Tho. Andrews Alderman of Lon<g ref="char:EOLhyphen"/>don. W. Cawly, Anth. Staply, J. Downes, Tho. Horton, Tho. Hammond, Nic. Love, Vincent Potter, Aug. Garland, J. Dixwel, G. Fleetwood. Sim. Meyne, Ja. Temple, P. Temple, Dan. Blagrave, and Tho. Waite Eſquires.</p>
+            <div type="part">
+               <head>The Names of thoſe exempted from Par<g ref="char:EOLhyphen"/>don.</head>
+               <p>John Liſle, William Say, Jo. Barkſtead, Cornelius Holland.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Grove on Snow-hill, Entred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
